@@ -18,5 +18,5 @@ function App() {
     </>
   );
 }
-"this is me"
+
 export default App;
